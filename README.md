@@ -18,3 +18,5 @@ You can define the Request URL and the request payload. The response is included
 ## Run the application
 
 ```bash
+python app.py
+```
